@@ -12,7 +12,3 @@ I'm pie
 - <a href="https://in-the-office-for.web.app/">In the office for...</a>
 - [What I eat today](https://what-i-eat-today.vercel.app/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently study in Thailand
-- 🌱 I’m currently learning in javascript HTML CSS and python
