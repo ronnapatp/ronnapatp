@@ -4,11 +4,11 @@ I'm pie
 
 
 ### ACTIVE PROJECT
-- <a href="https://worldeducation.vercel.app/">World education</a>
-- <a href="https://github.com/ronnapatsri/smartteam-website">Smart team website</a>
-- <a href="https://github.com/ronnapatsri/smartteam-bot">Smart team bot</a>
+- [World education](https://worldeducation.vercel.app/)
+- [Smart team wesite](https://github.com/ronnapatsri/smartteam-website)
+- [Kaolad discord bot](https://github.com/ronnapatp/kaolad-bot) 🚨 Commands music and moderator!
 
 ### PAST PROJECT
-- <a href="https://in-the-office-for.web.app/">In the office for...</a>
+- [In the office for...](https://in-the-office-for.web.app/)
 - [What I eat today](https://what-i-eat-today.vercel.app/)
-
+- [Smart team discord bot](https://github.com/ronnapatsri/smartteam-bot)
