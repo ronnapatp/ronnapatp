@@ -9,6 +9,9 @@ tdl_entries = tdl_res.body.strip.split("\n").select { |l| l.start_with?("- ") }.
 witq_res = HTTParty.get("https://raw.githubusercontent.com/ronnapatp/what-I-eat-today/main/README.md")
 witq_entries = witq_res.body.strip.split("\n").select { |l| l.start_with?("- ") }.size
 
+witqe_res = HTTParty.get("https://raw.githubusercontent.com/ronnapatp/what-I-eat-today/english/README.md")
+witqe_entries = witqe_res.body.strip.split("\n").select { |l| l.start_with?("- ") }.size
+
 it_res = HTTParty.get("https://raw.githubusercontent.com/ronnapatp/intheofficefor/main/Readme.md")
 it_entries = it_res.body.strip.split("\n").select { |l| l.start_with?("- ") }.size
 
@@ -18,7 +21,7 @@ it_entries = it_res.body.strip.split("\n").select { |l| l.start_with?("- ") }.si
   { name: "Smart team website", link: "https://github.com/ronnapatp/smartteam-website" },
   { name: "การศึกษาไทยเท่าที่เล่าได้", link: "https://thedu.vercel.app/" },
   { name: "กินอะไรดี? ver.Thai", link: "https://todayfood.vercel.app/", duration: "#{witq_entries} menu" },
-  { name: "กินอะไรดี ver.Eng", link: "https://today-food-eng.vercel.app/" },
+  { name: "กินอะไรดี? ver.Eng", link: "https://today-food-eng.vercel.app/", duration: "#{witqe_entries} menu" },
   {
     name: "Today I learned",
     link: "https://github.com/ronnapatp/today-I-learn/blob/main/README.md",
