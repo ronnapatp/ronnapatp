@@ -4,13 +4,13 @@ Active projects :
 - [World education](https://github.com/ronnapatp/worldeducation) 
 - [Smart team website](https://github.com/ronnapatp/smartteam-website) 
 - [การศึกษาไทยเท่าที่เล่าได้](https://thedu.vercel.app/) 
-- [กินอะไรดี? ver.Thai](https://todayfood.vercel.app/) : 65 menu
-- [กินอะไรดี? ver.Eng](https://today-food-eng.vercel.app/) : 10 menu
-- [Today I learned](https://github.com/ronnapatp/today-I-learn/blob/main/README.md) : 1 Posts
+- [กินอะไรดี? ver.Thai](https://todayfood.vercel.app/) : **65** menu 🍜
+- [กินอะไรดี? ver.Eng](https://today-food-eng.vercel.app/) : **10** menu🍛
+- [Today I learned](https://github.com/ronnapatp/today-I-learn/blob/main/README.md) : 📢 **1** Posts
 
 Past projects :
 
-- [In the office for...](https://in-the-office-for.web.app/) : 6 Country in website
+- [In the office for...](https://in-the-office-for.web.app/) : **6** Country in website 🗾
 
 
 
