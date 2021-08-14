@@ -16,7 +16,7 @@ it_res = HTTParty.get("https://raw.githubusercontent.com/ronnapatp/intheofficefo
 it_entries = it_res.body.strip.split("\n").select { |l| l.start_with?("- ") }.size
 
 @active_projects = [
-  { name: "Kaolad bot V2.0", link: "https://github.com/ronnapatp/kaoladbot" , duration: "Modarator command music and leveling!" },
+  { name: "Kaolad bot V2.0", link: "https://github.com/ronnapatp/kaoladbot" , duration: "Moderator command music and leveling!" },
   { name: "World education", link: "https://github.com/ronnapatp/worldeducation" },
   { name: "Smart team website", link: "https://github.com/ronnapatp/smartteam-website" },
   { name: "การศึกษาไทยเท่าที่เล่าได้", link: "https://thedu.vercel.app/" },
