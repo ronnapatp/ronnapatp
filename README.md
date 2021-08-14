@@ -1,6 +1,6 @@
 Active projects :
 
-- [Kaolad bot V2.0](https://github.com/ronnapatp/kaoladbot) : Modarator command music and leveling!
+- [Kaolad bot V2.0](https://github.com/ronnapatp/kaoladbot) : Moderator command music and leveling!
 - [World education](https://github.com/ronnapatp/worldeducation) 
 - [Smart team website](https://github.com/ronnapatp/smartteam-website) 
 - [การศึกษาไทยเท่าที่เล่าได้](https://thedu.vercel.app/) 
