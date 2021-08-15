@@ -7,7 +7,7 @@ Active projects :
 - [การศึกษาไทยเท่าที่เล่าได้](https://thedu.vercel.app/) 
 - [กินอะไรดี? ver.Thai](https://todayfood.vercel.app/) : **65** menu 🍜
 - [กินอะไรดี? ver.Eng](https://today-food-eng.vercel.app/) : **14** menu🍛
-- [Today I learned](https://github.com/ronnapatp/today-I-learn/blob/main/README.md) : 📢 **3** Posts
+- [Today I learned](https://github.com/ronnapatp/today-I-learn/blob/main/README.md) : 📢 **4** Posts
 
 Past projects :
 
