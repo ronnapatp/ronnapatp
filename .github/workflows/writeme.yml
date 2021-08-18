@@ -29,7 +29,7 @@ jobs:
         git config --global user.email "potbye@users.noreply.github.com"
         git config --global user.name "potbye"
         git add -A
-        git commit -m "Generate Readme" || exit 0
+        git commit -m "Generate Readme also update readme 📃" || exit 0
         git push
 
 
