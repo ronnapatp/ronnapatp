@@ -15,7 +15,11 @@ witqe_entries = witqe_res.body.strip.split("\n").select { |l| l.start_with?("- "
 it_res = HTTParty.get("https://raw.githubusercontent.com/ronnapatp/intheofficefor/main/Readme.md")
 it_entries = it_res.body.strip.split("\n").select { |l| l.start_with?("- ") }.size
 
+kumi_res = HTTParty.get("https://raw.githubusercontent.com/Kumi-the-chubby-bear/website/main/product/product.json")
+kumi_total = JSON.parse(kumi_res.body)["total"]
+
 @active_projects = [
+  { name: "Kumi official website", link: "https://github.com/kumi-the-chubby-bear/website" , duration: " We have **#{kumi_total} product 😲 **" },
   { name: "Kaolad bot V2.0", link: "https://github.com/ronnapatp/kaoladbot" , duration: "Moderator command music and leveling!" },
   { name: "Ronnapatp blog", link: "https://github.com/ronnapatp/blog" },
   { name: "World education", link: "https://github.com/ronnapatp/worldeducation" },
