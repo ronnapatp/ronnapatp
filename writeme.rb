@@ -18,6 +18,12 @@ it_entries = it_res.body.strip.split("\n").select { |l| l.start_with?("- ") }.si
 kumi_res = HTTParty.get("https://raw.githubusercontent.com/Kumi-the-chubby-bear/website/main/product/product.json")
 kumi_total = JSON.parse(kumi_res.body)["total"]
 
+followers_res = HTTParty.get("https://api.github.com/users/ronnapatp")
+followers_total = JSON.parse(followers_res.body)["followers"]
+
+following_res = HTTParty.get("https://api.github.com/users/ronnapatp")
+following_total = JSON.parse(following_res.body)["following"]
+
 @active_projects = [
   { name: "Kumi official website", link: "https://github.com/kumi-the-chubby-bear/website" , duration: " We have #{kumi_total} product 😲 " },
   { name: "Kaolad bot V2.0", link: "https://github.com/ronnapatp/kaoladbot" , duration: "Moderator command music and leveling!" },
@@ -40,6 +46,11 @@ kumi_total = JSON.parse(kumi_res.body)["total"]
     link: "https://in-the-office-for.web.app/",
     duration: "**#{it_entries}** Country in website 🗾",
   },
+]
+
+@profile = [
+  { name: "I have #{followers_total} followers!"},
+  { name: "I follow #{following_total} people!"}
 ]
 
 template = File.read("writeme.md.erb")
