@@ -14,6 +14,10 @@ Past projects :
 
 - [In the office for...](https://in-the-office-for.web.app/) : **6** Country in website 🗾
 
+Profile :
+-  : I have 5 followers!
+-  : I follow 9 people!
+
 Support me :
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K15DFWT)
