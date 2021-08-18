@@ -1,5 +1,6 @@
 Active projects :
 
+- [Kumi official website](https://github.com/kumi-the-chubby-bear/website) :  We have **3 product 😲 **
 - [Kaolad bot V2.0](https://github.com/ronnapatp/kaoladbot) : Moderator command music and leveling!
 - [Ronnapatp blog](https://github.com/ronnapatp/blog) 
 - [World education](https://github.com/ronnapatp/worldeducation) 
