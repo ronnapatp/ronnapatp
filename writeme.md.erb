@@ -10,6 +10,11 @@ Past projects :
 - [<%= project[:name] %>](<%= project[:link] %>)<% if project[:duration] %> : <%= project[:duration] %><% end %>
 <% end %>
 
+Profile :
+<% @profile.each do |project| %>
+- <% if project[:name] %> : <%= project[:name] %><% end %>
+<% end %>
+
 Support me :
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K15DFWT)
