@@ -15,8 +15,8 @@ Past projects :
 - [In the office for...](https://in-the-office-for.web.app/) : **6** Country in website 🗾
 
 Profile :
--  I have 5 followers!
--  I follow 9 people!
+-  I have 6 followers!
+-  I follow 10 people!
 
 Support me :
 
