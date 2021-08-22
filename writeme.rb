@@ -27,7 +27,7 @@ following_total = JSON.parse(following_res.body)["following"]
 @active_projects = [
   { name: "Kumi official website", link: "https://github.com/kumi-the-chubby-bear/website" , duration: " We have #{kumi_total} product 😲 " },
   { name: "Kaolad bot V2.0", link: "https://github.com/ronnapatp/kaoladbot" , duration: "Moderator command music and leveling!" },
-  { name: "Ronnapatp blog", link: "https://github.com/ronnapatp/blog" },
+  { name: "Ronnapatp blog", link: "https://ronnapatpblog.netlify.app/" },
   { name: "World education", link: "https://github.com/ronnapatp/worldeducation" },
   { name: "Smart team website", link: "https://github.com/ronnapatp/smartteam-website" },
   { name: "การศึกษาไทยเท่าที่เล่าได้", link: "https://thedu.vercel.app/" },
