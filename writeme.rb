@@ -32,8 +32,7 @@ following_total = JSON.parse(following_res.body)["following"]
   { name: "World education", link: "https://github.com/ronnapatp/worldeducation" },
   { name: "Smart team website", link: "https://github.com/ronnapatp/smartteam-website" },
   { name: "การศึกษาไทยเท่าที่เล่าได้", link: "https://thedu.vercel.app/" },
-  { name: "กินอะไรดี? ver.Thai", link: "https://todayfood.vercel.app/", duration: "**#{witq_entries}** menu 🍜" },
-  { name: "กินอะไรดี? ver.Eng", link: "https://today-food-eng.vercel.app/", duration: "**#{witqe_entries}** menu🍛" },
+
   {
     name: "Today I learned",
     link: "https://github.com/ronnapatp/today-I-learn/blob/main/README.md",
@@ -46,7 +45,10 @@ following_total = JSON.parse(following_res.body)["following"]
     name: "In the office for...",
     link: "https://in-the-office-for.web.app/",
     duration: "**#{it_entries}** Country in website 🗾",
+    
   },
+    { name: "กินอะไรดี? ver.Thai", link: "https://todayfood.vercel.app/", duration: "**#{witq_entries}** menu 🍜" },
+  { name: "กินอะไรดี? ver.Eng", link: "https://today-food-eng.vercel.app/", duration: "**#{witqe_entries}** menu🍛" },
 ]
 
 @profile = [
