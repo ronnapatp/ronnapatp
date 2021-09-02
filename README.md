@@ -1,5 +1,6 @@
 Active projects :
 
+- [Anti badword discord bot](https://github.com/ronnapatp/antibadwordbot) 
 - [Website template](https://github.com/ronnapatp/smartteam) 
 - [Kumi official website](https://github.com/Kumi-the-chubby-bear/New-KumiWeb) :  We have 3 product 😲 
 - [Kaolad bot V2.0](https://github.com/ronnapatp/kaoladbot) : Moderator command music and leveling!
