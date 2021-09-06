@@ -15,7 +15,7 @@ witqe_entries = witqe_res.body.strip.split("\n").select { |l| l.start_with?("- "
 it_res = HTTParty.get("https://raw.githubusercontent.com/ronnapatp/intheofficefor/main/Readme.md")
 it_entries = it_res.body.strip.split("\n").select { |l| l.start_with?("- ") }.size
 
-bwb_res = HTTParty.get("https://raw.githubusercontent.com/ronnapatp/antibadwordbot/main/Readme.md")
+bwb_res = HTTParty.get("https://raw.githubusercontent.com/ronnapatp/antibadwordbot/main/README.md")
 bwb_entries = bwb_res.body.strip.split("\n").select { |l| l.start_with?("- ") }.size
 
 kumi_res = HTTParty.get("https://raw.githubusercontent.com/Kumi-the-chubby-bear/website/main/product/product.json")
