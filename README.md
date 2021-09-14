@@ -1,6 +1,6 @@
 Active projects :
 
-- [Anti badword discord bot](https://github.com/ronnapatp/antibadwordbot) : (4 languages)
+- [Anti badword discord bot](https://github.com/ronnapatp/antibadwordbot) : (5 languages)
 - [Kumi official website](https://github.com/Kumi-the-chubby-bear/New-KumiWeb) :  We have 3 product 😲 
 - [Kaolad bot V2.0](https://github.com/ronnapatp/kaoladbot) : Moderator command music and leveling!
 - [Ronnapatp blog](https://ronnapatpblog.netlify.app/) 
@@ -17,7 +17,7 @@ Past projects :
 
 Profile :
 -  I have 6 followers!
--  I follow 10 people!
+-  I follow 12 people!
 
 Support me :
 
