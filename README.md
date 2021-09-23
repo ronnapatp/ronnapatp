@@ -16,8 +16,8 @@ Past projects :
 - [กินอะไรดี? ver.Eng](https://today-food-eng.vercel.app/) : **14** menu🍛
 
 Profile :
--  I have 6 followers!
--  I follow 13 people!
+-  I have  followers!
+-  I follow  people!
 
 Support me :
 
