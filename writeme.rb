@@ -34,7 +34,6 @@ following_total = JSON.parse(following_res.body)["following"]
   { name: "Ronnapatp blog", link: "https://ronnapatpblog.netlify.app/" },
   { name: "World education", link: "https://github.com/ronnapatp/worldeducation" },
   { name: "Smart team website", link: "https://github.com/ronnapatp/smartteam-website" },
-  { name: "การศึกษาไทยเท่าที่เล่าได้", link: "https://thedu.vercel.app/" },
 
   {
     name: "Today I learned",
