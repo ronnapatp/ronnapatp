@@ -6,7 +6,6 @@ Active projects :
 - [Ronnapatp blog](https://ronnapatpblog.netlify.app/) 
 - [World education](https://github.com/ronnapatp/worldeducation) 
 - [Smart team website](https://github.com/ronnapatp/smartteam-website) 
-- [การศึกษาไทยเท่าที่เล่าได้](https://thedu.vercel.app/) 
 - [Today I learned](https://github.com/ronnapatp/today-I-learn/blob/main/README.md) : 📢 **4** Posts
 
 Past projects :
