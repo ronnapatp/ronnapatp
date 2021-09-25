@@ -33,7 +33,7 @@ following_total = JSON.parse(following_res.body)["following"]
   { name: "Kaolad bot", link: "https://github.com/ronnapatp/kaoladbot" , duration: "Moderator command music and leveling!" },
   { name: "Ronnapatp blog", link: "https://ronnapatpblog.netlify.app/" },
   { name: "World education", link: "https://github.com/ronnapatp/worldeducation" },
-  { name: "Smart team website", link: "https://github.com/ronnapatp/smartteam-website" },
+  { name: "Kumi discord bot", link: "https://discord.com/invite/Tr2hrmzb4s" },
 
   {
     name: "Today I learned",
