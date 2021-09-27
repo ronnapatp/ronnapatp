@@ -31,15 +31,15 @@ following_total = JSON.parse(following_res.body)["following"]
   { name: "Anti badword discord bot", link: "https://github.com/ronnapatp/antibadwordbot", duration: "(#{bwb_entries} languages)"},
   { name: "Kumi official website", link: "https://github.com/Kumi-the-chubby-bear/New-KumiWeb" , duration: " We have #{kumi_total} product 😲 " },
   { name: "Kaolad bot", link: "https://github.com/ronnapatp/kaoladbot" , duration: "Moderator command music and leveling!" },
-  { name: "Ronnapatp blog", link: "https://ronnapatpblog.netlify.app/" },
-  { name: "World education", link: "https://github.com/ronnapatp/worldeducation" },
+ # { name: "Ronnapatp blog", link: "https://ronnapatpblog.netlify.app/" },
+ # { name: "World education", link: "https://github.com/ronnapatp/worldeducation" },
   { name: "Kumi discord bot", link: "https://discord.com/invite/Tr2hrmzb4s" },
 
-  {
-    name: "Today I learned",
-    link: "https://github.com/ronnapatp/today-I-learn/blob/main/README.md",
-    duration: "📢 **#{tdl_entries}** Posts",
-  },
+  # {
+   # name: "Today I learned",
+   # link: "https://github.com/ronnapatp/today-I-learn/blob/main/README.md",
+   # duration: "📢 **#{tdl_entries}** Posts",
+  #},
 ]
 
 @past_projects = [
@@ -50,7 +50,7 @@ following_total = JSON.parse(following_res.body)["following"]
     
   },
     { name: "กินอะไรดี? ver.Thai", link: "https://todayfood.vercel.app/", duration: "**#{witq_entries}** menu 🍜" },
-  { name: "กินอะไรดี? ver.Eng", link: "https://today-food-eng.vercel.app/", duration: "**#{witqe_entries}** menu🍛" },
+  # { name: "กินอะไรดี? ver.Eng", link: "https://today-food-eng.vercel.app/", duration: "**#{witqe_entries}** menu🍛" },
 ]
 
 @profile = [
