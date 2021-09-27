@@ -5,7 +5,7 @@ Active projects :
 - [Kaolad bot](https://github.com/ronnapatp/kaoladbot) : Moderator command music and leveling!
 - [Ronnapatp blog](https://ronnapatpblog.netlify.app/) 
 - [World education](https://github.com/ronnapatp/worldeducation) 
-- [Smart team website](https://github.com/ronnapatp/smartteam-website) 
+- [Kumi discord bot](https://discord.com/invite/Tr2hrmzb4s) 
 - [Today I learned](https://github.com/ronnapatp/today-I-learn/blob/main/README.md) : 📢 **4** Posts
 
 Past projects :
