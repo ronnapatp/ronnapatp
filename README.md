@@ -12,7 +12,7 @@ Past projects :
 - [กินอะไรดี? ver.Thai](https://todayfood.vercel.app/) : **65** menu 🍜
 
 Profile :
--  I have 6 followers!
+-  I have 7 followers!
 -  I follow 14 people!
 
 Support me :
