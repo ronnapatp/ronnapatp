@@ -4,6 +4,7 @@ Active projects :
 - [Kumi official website](https://github.com/Kumi-the-chubby-bear/New-KumiWeb) :  We have 3 product 😲 
 - [Kaolad bot](https://github.com/ronnapatp/kaoladbot) : Moderator command music and leveling!
 - [Kumi's utilities](https://discord.com/invite/Tr2hrmzb4s) 
+- [How to?](https://github.com/ronnapatp/howto) 
 
 Past projects :
 
