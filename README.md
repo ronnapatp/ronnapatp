@@ -1,6 +1,5 @@
 Active projects :
 
-- [Anti badword discord bot](https://github.com/ronnapatp/antibadwordbot) : (6 languages)
 - [Kumi official website](https://github.com/Kumi-the-chubby-bear/New-KumiWeb) :  We have 3 product 😲 
 - [Kaolad bot](https://github.com/ronnapatp/kaoladbot) : Moderator command music and leveling!
 - [Kumi's utilities](https://discord.com/invite/Tr2hrmzb4s) 
@@ -8,6 +7,7 @@ Active projects :
 
 Past projects :
 
+- [Anti badword discord bot](https://github.com/ronnapatp/antibadwordbot) : (6 languages)
 - [In the office for...](https://in-the-office-for.web.app/) : **6** Country in website 🗾
 - [กินอะไรดี? ver.Thai](https://todayfood.vercel.app/) : **65** menu 🍜
 
