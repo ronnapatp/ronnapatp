@@ -1,5 +1,8 @@
+Profile will auto update every 1 hour with https://github.com/ronnapatp/ronnapatp 😇
+
 Active projects :
 
+- [ronnapat.com](https://ronnapat.com/) : Repo not public
 - [Kumi official website](https://github.com/Kumi-the-chubby-bear/New-KumiWeb) :  We have 3 product 😲 
 - [Kaolad bot](https://github.com/ronnapatp/kaoladbot) : Moderator command music and leveling!
 - [Kumi's utilities](https://discord.com/invite/Tr2hrmzb4s) 
@@ -14,6 +17,8 @@ Past projects :
 Profile :
 -  I have 7 followers!
 -  I follow 16 people!
+
+View me on website : https://ronnapat.com/
 
 Support me :
 
