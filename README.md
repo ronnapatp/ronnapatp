@@ -17,7 +17,7 @@ Past projects :
 
 Profile :
 -  I have 7 followers!
--  I follow 16 people!
+-  I follow 17 people!
 
 Support me :
 
