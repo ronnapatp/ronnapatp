@@ -27,7 +27,15 @@ followers_total = JSON.parse(followers_res.body)["followers"]
 following_res = HTTParty.get("https://api.github.com/users/ronnapatp")
 following_total = JSON.parse(following_res.body)["following"]
 
-time = Time.new
+module MyApp
+  class Application < Rails::Application
+    config.time_zone = 'Indochina Time'
+
+    # ...
+  end
+end
+
+#time = Time.new
 Time.zone = "ICT"
 #time = Time.zone.now()
 
