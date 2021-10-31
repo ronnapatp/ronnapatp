@@ -27,6 +27,8 @@ followers_total = JSON.parse(followers_res.body)["followers"]
 following_res = HTTParty.get("https://api.github.com/users/ronnapatp")
 following_total = JSON.parse(following_res.body)["following"]
 
+time = Time.new
+
 @active_projects = [
   # { name: "Anti badword discord bot", link: "https://github.com/ronnapatp/antibadwordbot", duration: "(#{bwb_entries} languages)"},
     { name: "ronnapat.com", link: "https://ronnapat.com/" , duration: "Repo not public" },
@@ -62,7 +64,7 @@ following_total = JSON.parse(following_res.body)["following"]
 ]
 
 @update = [
-  { name: `#{new Date().toLocaleString()}`}
+  { name: time.inspect }
 ]
 
 template = File.read("writeme.md.erb")
