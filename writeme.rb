@@ -66,7 +66,7 @@ time.zone = "ICT"
 ]
 
 @update = [
-  { name: Time.zone.now }
+  { name: time.zone.now }
 ]
 
 template = File.read("writeme.md.erb")
