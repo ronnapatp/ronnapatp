@@ -1,31 +1,31 @@
 Profile will auto update every 30 minutes with https://github.com/ronnapatp/ronnapatp 😇
 
 
-Active projects :
+### Active projects :
 
 <% @active_projects.each do |project| %>
 - [<%= project[:name] %>](<%= project[:link] %>) <% if project[:duration] %>: <%= project[:duration] %><% end %>
 <% end %>
 
-Past projects :
+### Past projects :
 
 <% @past_projects.each do |project| %>
 - [<%= project[:name] %>](<%= project[:link] %>)<% if project[:duration] %> : <%= project[:duration] %><% end %>
 <% end %>
 
-Profile :
+### Profile :
 <% @profile.each do |project| %>
 - <% if project[:name] %> <%= project[:name] %><% end %>
 <% end %>
 
-Updated at :
+### Updated at :
 <% @update.each do |project| %>
 - <% if project[:name] %> <%= project[:name] %><% end %>
 <% end %>
 
 View me on website : https://ronnapat.com/
 
-Support me :
+### Support me :
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ronnapatp)
 
