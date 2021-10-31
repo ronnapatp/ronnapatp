@@ -27,6 +27,18 @@ followers_total = JSON.parse(followers_res.body)["followers"]
 following_res = HTTParty.get("https://api.github.com/users/ronnapatp")
 following_total = JSON.parse(following_res.body)["following"]
 
+#module MyApp
+#  class Application < Rails::Application
+#    config.time_zone = 'Indochina Time'
+
+#    # ...
+#  end
+#end
+
+time = Time.new
+#Time.zone = "ICT"
+#time = Time.zone.now()
+
 @active_projects = [
   # { name: "Anti badword discord bot", link: "https://github.com/ronnapatp/antibadwordbot", duration: "(#{bwb_entries} languages)"},
     { name: "ronnapat.com", link: "https://ronnapat.com/" , duration: "Repo not public" },
@@ -59,6 +71,10 @@ following_total = JSON.parse(following_res.body)["following"]
 @profile = [
   { name: "I have #{followers_total} followers!"},
   { name: "I follow #{following_total} people!"}
+]
+
+@update = [
+  { name: time.strftime("%Y-%m-%d %H:%M:%S") }
 ]
 
 template = File.read("writeme.md.erb")

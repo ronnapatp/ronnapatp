@@ -1,4 +1,5 @@
-Profile will auto update every 1 hour with https://github.com/ronnapatp/ronnapatp 😇
+Profile will auto update every 30 minutes with https://github.com/ronnapatp/ronnapatp 😇
+
 
 Active projects :
 
@@ -14,6 +15,11 @@ Past projects :
 
 Profile :
 <% @profile.each do |project| %>
+- <% if project[:name] %> <%= project[:name] %><% end %>
+<% end %>
+
+Updated at :
+<% @update.each do |project| %>
 - <% if project[:name] %> <%= project[:name] %><% end %>
 <% end %>
 

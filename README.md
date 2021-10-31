@@ -1,4 +1,4 @@
-Profile will auto update every 1 hour with https://github.com/ronnapatp/ronnapatp 😇
+Profile will auto update every 30 minutes with https://github.com/ronnapatp/ronnapatp 😇
 
 Active projects :
 
@@ -17,6 +17,10 @@ Past projects :
 Profile :
 -  I have 7 followers!
 -  I follow 18 people!
+
+Updated at :
+-  2021-10-31 10:37:59
+
 
 View me on website : https://ronnapat.com/
 
