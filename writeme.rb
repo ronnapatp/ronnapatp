@@ -27,16 +27,16 @@ followers_total = JSON.parse(followers_res.body)["followers"]
 following_res = HTTParty.get("https://api.github.com/users/ronnapatp")
 following_total = JSON.parse(following_res.body)["following"]
 
-module MyApp
-  class Application < Rails::Application
-    config.time_zone = 'Indochina Time'
+#module MyApp
+#  class Application < Rails::Application
+#    config.time_zone = 'Indochina Time'
 
-    # ...
-  end
-end
+#    # ...
+#  end
+#end
 
-#time = Time.new
-Time.zone = "ICT"
+time = Time.new
+#Time.zone = "ICT"
 #time = Time.zone.now()
 
 @active_projects = [
@@ -74,7 +74,7 @@ Time.zone = "ICT"
 ]
 
 @update = [
-  { name: Time.zone.now }
+  { name: time.strftime("%Y-%m-%d %H:%M:%S") }
 ]
 
 template = File.read("writeme.md.erb")
