@@ -28,22 +28,24 @@ following_res = HTTParty.get("https://api.github.com/users/ronnapatp")
 following_total = JSON.parse(following_res.body)["following"]
 
 @active_projects = [
-  { name: "Anti badword discord bot", link: "https://github.com/ronnapatp/antibadwordbot", duration: "(#{bwb_entries} languages)"},
+  # { name: "Anti badword discord bot", link: "https://github.com/ronnapatp/antibadwordbot", duration: "(#{bwb_entries} languages)"},
+    { name: "ronnapat.com", link: "https://ronnapat.com/" , duration: "Repo not public" },
   { name: "Kumi official website", link: "https://github.com/Kumi-the-chubby-bear/New-KumiWeb" , duration: " We have #{kumi_total} product 😲 " },
-  { name: "Kaolad bot V2.0", link: "https://github.com/ronnapatp/kaoladbot" , duration: "Moderator command music and leveling!" },
-  { name: "Ronnapatp blog", link: "https://ronnapatpblog.netlify.app/" },
-  { name: "World education", link: "https://github.com/ronnapatp/worldeducation" },
-  { name: "Smart team website", link: "https://github.com/ronnapatp/smartteam-website" },
-  { name: "การศึกษาไทยเท่าที่เล่าได้", link: "https://thedu.vercel.app/" },
+  { name: "Kaolad bot", link: "https://github.com/ronnapatp/kaoladbot" , duration: "Moderator command music and leveling!" },
+ # { name: "Ronnapatp blog", link: "https://ronnapatpblog.netlify.app/" },
+ # { name: "World education", link: "https://github.com/ronnapatp/worldeducation" },
+  { name: "Kumi's utilities", link: "https://discord.com/invite/Tr2hrmzb4s" },
+    { name: "How to?", link: "https://github.com/ronnapatp/howto" },
 
-  {
-    name: "Today I learned",
-    link: "https://github.com/ronnapatp/today-I-learn/blob/main/README.md",
-    duration: "📢 **#{tdl_entries}** Posts",
-  },
+  # {
+   # name: "Today I learned",
+   # link: "https://github.com/ronnapatp/today-I-learn/blob/main/README.md",
+   # duration: "📢 **#{tdl_entries}** Posts",
+  #},
 ]
 
 @past_projects = [
+  { name: "Anti badword discord bot", link: "https://github.com/ronnapatp/antibadwordbot", duration: "(#{bwb_entries} languages)"},
   {
     name: "In the office for...",
     link: "https://in-the-office-for.web.app/",
@@ -51,7 +53,7 @@ following_total = JSON.parse(following_res.body)["following"]
     
   },
     { name: "กินอะไรดี? ver.Thai", link: "https://todayfood.vercel.app/", duration: "**#{witq_entries}** menu 🍜" },
-  { name: "กินอะไรดี? ver.Eng", link: "https://today-food-eng.vercel.app/", duration: "**#{witqe_entries}** menu🍛" },
+  # { name: "กินอะไรดี? ver.Eng", link: "https://today-food-eng.vercel.app/", duration: "**#{witqe_entries}** menu🍛" },
 ]
 
 @profile = [
