@@ -61,6 +61,10 @@ following_total = JSON.parse(following_res.body)["following"]
   { name: "I follow #{following_total} people!"}
 ]
 
+@update = [
+  { name: `#{new Date().toLocaleString()}`}
+]
+
 template = File.read("writeme.md.erb")
 
 content = ERB.new(template, nil, "<>").result
