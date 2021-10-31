@@ -28,7 +28,7 @@ following_res = HTTParty.get("https://api.github.com/users/ronnapatp")
 following_total = JSON.parse(following_res.body)["following"]
 
 time = Time.new
-time.zone = "ICT"
+Time.zone = "ICT"
 #time = Time.zone.now()
 
 @active_projects = [
@@ -66,7 +66,7 @@ time.zone = "ICT"
 ]
 
 @update = [
-  { name: time.zone.now }
+  { name: Time.zone.now }
 ]
 
 template = File.read("writeme.md.erb")
