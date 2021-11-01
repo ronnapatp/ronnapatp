@@ -18,14 +18,11 @@ Profile will auto update every 30 minutes with https://github.com/ronnapatp/ronn
 - <% if project[:name] %> <%= project[:name] %><% end %>
 <% end %>
 
-### Updated at :
-<% @update.each do |project| %>
-- <% if project[:name] %> <%= project[:name] %><% end %>
+### Updated at : <% @update.each do |project| %>
+<% if project[:name] %> <%= project[:name] %><% end %>
 <% end %>
 
-time = Time.new
 
-Update at : time.strftime("%Y-%m-%d %H:%M:%S")
 
 View me on website : https://ronnapat.com/
 

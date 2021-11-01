@@ -35,7 +35,7 @@ following_total = JSON.parse(following_res.body)["following"]
 #  end
 #end
 
-#time = Time.new
+time = Time.new
 #Time.zone = "ICT"
 #time = Time.zone.now()
 
@@ -73,9 +73,9 @@ following_total = JSON.parse(following_res.body)["following"]
   { name: "I follow #{following_total} people!"}
 ]
 
-#@update = [
-#  { name: time.strftime("%Y-%m-%d %H:%M:%S") }
-#]
+@update = [
+  { name: time.strftime("%Y-%m-%d %H:%M:%S") }
+]
 
 template = File.read("writeme.md.erb")
 
