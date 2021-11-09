@@ -11,7 +11,7 @@ Active projects :
 
 Past projects :
 
-- [Anti badword discord bot](https://github.com/ronnapatp/antibadwordbot) : (0 languages)
+- [Anti badword discord bot](https://github.com/ronnapatp/antibadwordbot) : (28 languages)
 - [In the office for...](https://in-the-office-for.web.app/) : **6** Country in website 🗾
 - [กินอะไรดี? ver.Thai](https://todayfood.vercel.app/) : **65** menu 🍜
 
@@ -20,7 +20,7 @@ Profile :
 -  I follow 20 people!
 
 Updated at :
--  2021-11-09 03:11:32
+-  2021-11-09 03:38:42
 
 View me on website : https://ronnapat.com/
 
