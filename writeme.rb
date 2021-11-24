@@ -27,33 +27,16 @@ followers_total = JSON.parse(followers_res.body)["followers"]
 following_res = HTTParty.get("https://api.github.com/users/ronnapatp")
 following_total = JSON.parse(following_res.body)["following"]
 
-#module MyApp
-#  class Application < Rails::Application
-#    config.time_zone = 'Indochina Time'
-
-#    # ...
-#  end
-#end
 
 time = Time.new
-#Time.zone = "ICT"
-#time = Time.zone.now()
 
 @active_projects = [
-  # { name: "Anti badword discord bot", link: "https://github.com/ronnapatp/antibadwordbot", duration: "(#{bwb_entries} languages)"},
-    { name: "ronnapat.com", link: "https://ronnapat.com/" , duration: "Repo not public" },
+  { name: "ronnapat.com", link: "https://ronnapat.com/" , duration: "Repo not public" },
+  { name: "My Blog", link: "https://blog.ronnapat.com/" , duration: "Repo not public" },
   { name: "Kumi official website", link: "https://github.com/Kumi-the-chubby-bear/New-KumiWeb" , duration: " We have #{kumi_total} product 😲 " },
   { name: "Kaolad bot", link: "https://github.com/ronnapatp/kaoladbot" , duration: "Moderator command music and leveling!" },
- # { name: "Ronnapatp blog", link: "https://ronnapatpblog.netlify.app/" },
- # { name: "World education", link: "https://github.com/ronnapatp/worldeducation" },
   { name: "Kumi's utilities", link: "https://discord.com/invite/Tr2hrmzb4s" },
-    { name: "How to?", link: "https://github.com/ronnapatp/howto" },
-
-  # {
-   # name: "Today I learned",
-   # link: "https://github.com/ronnapatp/today-I-learn/blob/main/README.md",
-   # duration: "📢 **#{tdl_entries}** Posts",
-  #},
+  { name: "How to?", link: "https://github.com/ronnapatp/howto" },
 ]
 
 @past_projects = [
