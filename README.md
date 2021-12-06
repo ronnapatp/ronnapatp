@@ -1,6 +1,5 @@
 Profile will auto update every 30 minutes with https://github.com/ronnapatp/ronnapatp 😇
 
-
 ### Active projects :
 
 - [ronnapat.com](https://ronnapat.com/) : Repo not public
@@ -22,7 +21,6 @@ Profile will auto update every 30 minutes with https://github.com/ronnapatp/ronn
 
 ### Updated at : 
  2021-12-06 12:16:26
-
 
 View me on website : https://ronnapat.com/
 

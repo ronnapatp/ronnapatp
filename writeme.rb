@@ -28,7 +28,18 @@ following_res = HTTParty.get("https://api.github.com/users/ronnapatp")
 following_total = JSON.parse(following_res.body)["following"]
 
 
+
+#module MyApp
+#  class Application < Rails::Application
+#    config.time_zone = 'Indochina Time'
+
+#    # ...
+#  end
+#end
+
 time = Time.new
+#Time.zone = "ICT"
+#time = Time.zone.now()
 
 @active_projects = [
   { name: "ronnapat.com", link: "https://ronnapat.com/" , duration: "Repo not public" },
