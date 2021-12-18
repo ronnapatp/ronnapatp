@@ -43,7 +43,7 @@ time = Time.new
 
 @active_projects = [
   { name: "ronnapat.com", link: "https://ronnapat.com/" , duration: "Repo not public" },
-  { name: "My Blog", link: "https://blog.ronnapat.com/" , duration: "ronnapatp/blog" },
+  { name: "My Blog", link: "https://blog.ronnapat.com/" , duration: "Repo : ronnapatp/blog" },
   { name: "Kumi official website", link: "https://github.com/Kumi-the-chubby-bear/New-KumiWeb" , duration: " We have #{kumi_total} product 😲 " },
   { name: "Kaolad bot", link: "https://github.com/ronnapatp/kaoladbot" , duration: "Moderator command music and leveling!" },
   { name: "Kumi's utilities", link: "https://discord.com/invite/Tr2hrmzb4s" },
