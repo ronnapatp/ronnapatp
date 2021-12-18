@@ -5,7 +5,7 @@ Profile will auto update every 30 minutes with https://github.com/ronnapatp/ronn
 ### Active projects :
 
 - [ronnapat.com](https://ronnapat.com/) : Repo not public
-- [My Blog](https://blog.ronnapat.com/) : ronnapatp/blog
+- [My Blog](https://blog.ronnapat.com/) : Repo : ronnapatp/blog
 - [Kumi official website](https://github.com/Kumi-the-chubby-bear/New-KumiWeb) :  We have 3 product 😲 
 - [Kaolad bot](https://github.com/ronnapatp/kaoladbot) : Moderator command music and leveling!
 - [Kumi's utilities](https://discord.com/invite/Tr2hrmzb4s) 
@@ -22,7 +22,7 @@ Profile will auto update every 30 minutes with https://github.com/ronnapatp/ronn
 -  I follow 25 people!
 
 ### Updated at : 
- 2021-12-18 02:00:20
+ 2021-12-18 02:43:23
 
 View me on website : https://ronnapat.com/
 
