@@ -47,7 +47,8 @@ time = Time.new
   { name: "Kumi official website", link: "https://github.com/Kumi-the-chubby-bear/New-KumiWeb" , duration: " We have #{kumi_total} product 😲 " },
   { name: "Kaolad bot", link: "https://github.com/ronnapatp/kaoladbot" , duration: "Moderator command music and leveling!" },
   { name: "Kumi's utilities", link: "https://discord.com/invite/Tr2hrmzb4s" },
-  { name: "How to?", link: "https://github.com/ronnapatp/howto" },
+ #
+#{ name: "How to?", link: "https://github.com/ronnapatp/howto" },
 ]
 
 @past_projects = [
