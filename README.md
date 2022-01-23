@@ -13,14 +13,13 @@ Profile will auto update every 30 minutes with https://github.com/ronnapatp/ronn
 
 - [Anti badword discord bot](https://github.com/ronnapatp/antibadwordbot) : (33 languages)
 - [In the office for...](https://in-the-office-for.web.app/) : **6** Country in website 🗾
-- [กินอะไรดี? ver.Thai](https://todayfood.vercel.app/) : **0** menu 🍜
 
 ### Profile :
 -  I have 7 followers!
 -  I follow 25 people!
 
 ### Updated at : 
- 2022-01-23 06:11:44
+ 2022-01-23 06:41:15
 
 View me on website : https://ronnapat.com/
 
