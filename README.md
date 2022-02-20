@@ -14,11 +14,11 @@ Profile will auto update every 30 minutes with https://github.com/ronnapatp/ronn
 - [Kaolad bot](https://github.com/ronnapatp/kaoladbot) : Moderator command music and leveling!
 
 ### Profile :
--  I have 9 followers!
+-  I have 10 followers!
 -  I follow 29 people!
 
 ### Updated at : 
- 2022-02-20 07:09:41
+ 2022-02-20 07:33:30
 
 View me on website : https://ronnapat.com/
 
