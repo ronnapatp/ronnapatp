@@ -15,10 +15,10 @@ Profile will auto update every 30 minutes with https://github.com/ronnapatp/ronn
 
 ### Profile :
 -  I have 15 followers!
--  I follow 34 people!
+-  I follow 36 people!
 
 ### Updated at : 
- 2022-03-23 03:09:46
+ 2022-03-23 03:47:25
 
 View me on website : https://ronnapat.com/
 
