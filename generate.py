@@ -1,14 +1,14 @@
 import requests, json, random
 from time import time, ctime
-t = time()
 
-print(ctime(t))
+t = time()
 
 link = 'https://github.com/ronnapatp/'
 
 f = open("./README.md", "w")
 res = requests.get(f'https://api.github.com/users/ronnapatp')
 result = json.loads(res.text)
+
 f.write(f'''
 Profile will auto update every 30 minutes with https://github.com/ronnapatp/ronnapatp 😇
 
@@ -51,4 +51,5 @@ Profile will auto update every 30 minutes with https://github.com/ronnapatp/ronn
 
 Latest update : {ctime(t)}
 ''')
+
 f.close()
