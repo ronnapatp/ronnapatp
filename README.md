@@ -7,7 +7,7 @@ Profile will auto update every 30 minutes with https://github.com/ronnapatp/ronn
 
 ## Profile
 
-- I have 24 followers.
+- I have 25 followers.
 - I follow 47 people.
 
 </details>
@@ -38,4 +38,4 @@ Profile will auto update every 30 minutes with https://github.com/ronnapatp/ronn
 
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ronnapat.com/)
 
-Latest update : Fri Sep  2 13:11:41 2022
+Latest update : Fri Sep  2 13:53:10 2022
