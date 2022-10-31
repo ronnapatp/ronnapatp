@@ -14,10 +14,7 @@ Profile will auto update every 30 minutes with https://github.com/ronnapatp/ronn
 
 # 👋🏻 Hey, I'm ronnඞpඞtp
 
-### Hacktoberfest project
-
-- [Awesome programmer quotes](https://github.com/ronnapatp/awesome-programmer-quotes)
-- [Awesome space image](https://github.com/theronnapat/awesome-space-image)
+### Happy Halloween day
 
 <details><summary><strong>My Profile</strong></summary>
 
