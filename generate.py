@@ -9,12 +9,44 @@ f = open("./README.md", "w")
 res = requests.get(f'https://api.github.com/users/ronnapatp')
 result = json.loads(res.text)
 
+message = ["Happy New Year 🎉🥳","Happy Valentine's Day 🌹","Happy Halloween 🎃","Merry Christmas 🎄🥳","Merry Christmas Eve 🎄🎉"]
+
+currentDateMounth = ctime(t).split()
+
+def holidaysCheck():
+    if currentDateMounth[1] == 'Jan':
+        if currentDateMounth[2] == '1':
+            return message[0]
+        else:
+            return ''
+    elif currentDateMounth[1] == 'Feb':
+        if currentDateMounth[2] == '14':
+            return message[1]
+        else:
+            return ''
+    elif currentDateMounth[1] == 'Oct':
+        if currentDateMounth[2] == '31':
+            return message[2]
+        else:
+            return ''
+    elif currentDateMounth[1] == 'Dec':
+        if currentDateMounth[2] == '25':
+            return message[3]
+        elif currentDateMounth[2] == '24':
+            return message[4]
+        else:
+            return ''
+    else:
+        return ''
+
+textSize = "" if holidaysCheck() == '' else "###"
+
 f.write(f'''
 Profile will auto update every 30 minutes with https://github.com/ronnapatp/ronnapatp 😇
 
 # 👋🏻 Hey, I'm ronnඞpඞtp
 
-### Happy Halloween day
+{textSize} {holidaysCheck()}
 
 <details><summary><strong>My Profile</strong></summary>
 
