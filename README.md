@@ -3,7 +3,7 @@ Profile will auto update every 30 minutes with https://github.com/ronnapatp/ronn
 
 # 👋🏻 Hey, I'm ronnඞpඞtp
 
-### Happy Valentine's Day 🌹
+ 
 
 <details><summary><strong>My Profile</strong></summary>
 
@@ -40,4 +40,4 @@ Profile will auto update every 30 minutes with https://github.com/ronnapatp/ronn
 
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ronnapat.com/)
 
-Latest update : Tue Feb 14 23:31:59 2023
+Latest update : Wed Feb 15 00:09:18 2023
