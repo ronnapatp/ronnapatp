@@ -40,4 +40,4 @@ Profile will auto update every 30 minutes with https://github.com/ronnapatp/ronn
 
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ronnapat.com/)
 
-Latest update : Fri May  5 23:02:59 2023
+Latest update : Fri May  5 23:31:51 2023
