@@ -3,7 +3,7 @@ Profile will auto update every 30 minutes with https://github.com/ronnapatp/ronn
 
 # 👋🏻 Hey, I'm ronnඞpඞtp
 
-### Happy New Year 🎉🥳
+ 
 
 <details><summary><strong>My Profile</strong></summary>
 
@@ -41,5 +41,5 @@ Profile will auto update every 30 minutes with https://github.com/ronnapatp/ronn
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ronnapat.com/)
 
 
-Latest update : Mon Jan  1 23:31:54 2024
+Latest update : Tue Jan  2 00:08:57 2024
 
