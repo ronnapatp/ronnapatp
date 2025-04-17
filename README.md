@@ -1,7 +1,7 @@
 
 # 👋🏻 Hi there
 
-I'm Ronnapat Srivoravilai, still studying in high school 🏫.
+I'm **Ronnapat Srivoravilai**, still studying in high school 🏫.
 
 I code in javascript, c++, c, and python.
 
